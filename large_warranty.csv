@@ -1,0 +1,2001 @@
+claim_id,claim_date,sale_id,repair_status
+1,2024-05-26,4273,Warranty Void
+2,2023-12-10,29,Paid Repaired
+3,2023-12-10,2682,Paid Repaired
+4,2024-11-23,7799,Paid Repaired
+5,2024-10-08,3315,
+6,2025-09-12,2869,Warranty Void
+7,2024-12-08,7614,Paid Repaired
+8,2025-02-12,6252,Paid Repaired
+9,2024-05-13,5536,Warranty Void
+10,2024-10-16,9088,Warranty Void
+11,2024-01-03,7761,Paid Repaired
+12,2025-04-14,7579,Paid Repaired
+13,2024-08-14,6487,Paid Repaired
+14,2023-09-28,6669,Paid Repaired
+15,2024-12-08,8525,Paid Repaired
+16,2024-05-30,5953,Paid Repaired
+17,2024-04-17,4788,Paid Repaired
+18,2024-09-27,9821,Paid Repaired
+19,2024-03-27,9776,Paid Repaired
+20,2025-04-16,1582,Warranty Void
+21,2023-12-17,1320,Paid Repaired
+22,2024-04-13,6142,Paid Repaired
+23,2023-10-03,9123,Paid Repaired
+24,2024-04-14,2766,Warranty Void
+25,2023-07-19,8712,Warranty Void
+26,2023-10-13,2752,Warranty Void
+27,2024-06-24,2698,Warranty Void
+28,2024-03-25,168,Paid Repaired
+29,2025-01-05,7594,Paid Repaired
+30,2025-04-05,8194,Warranty Void
+31,2025-10-24,1829,Warranty Void
+32,2024-12-08,3989,Paid Repaired
+33,2023-03-24,536,Paid Repaired
+34,2024-06-09,2985,Pending
+35,2025-02-02,2845,Paid Repaired
+36,2024-03-14,6171,Paid Repaired
+37,2025-05-12,7490,Warranty Void
+38,2024-10-18,8142,Pending
+39,2025-02-24,5519,Paid Repaired
+40,2024-02-27,2124,Warranty Void
+41,2024-10-31,4521,Warranty Void
+42,2024-10-19,603,Warranty Void
+43,2023-11-15,6956,Paid Repaired
+44,2024-12-25,1074,Paid Repaired
+45,2024-03-15,1139,Warranty Void
+46,2023-10-10,5614,Paid Repaired
+47,2024-09-26,3664,Warranty Void
+48,2023-09-17,6895,Paid Repaired
+49,2024-06-24,463,Paid Repaired
+50,2024-01-04,5609,Warranty Void
+51,2025-03-24,6412,Warranty Void
+52,2024-05-31,9843,Paid Repaired
+53,2024-12-27,1904,Warranty Void
+54,2025-05-01,5194,Paid Repaired
+55,2024-12-22,4617,Paid Repaired
+56,2025-08-18,10,Paid Repaired
+57,2023-12-02,5053,Warranty Void
+58,2024-06-13,8063,Pending
+59,2025-03-08,7421,Paid Repaired
+60,2024-12-18,5004,Pending
+61,2024-08-12,1963,Warranty Void
+62,2024-03-30,4810,Paid Repaired
+63,2023-12-05,3743,Pending
+64,2024-10-06,8774,Paid Repaired
+65,2023-06-15,5384,Paid Repaired
+66,2024-09-04,6725,Paid Repaired
+67,2025-09-01,6961,Pending
+68,2025-04-19,9554,Pending
+69,2023-06-22,8582,Paid Repaired
+70,2024-03-25,8404,Paid Repaired
+71,2024-12-29,6332,Warranty Void
+72,2024-10-30,4659,Paid Repaired
+73,2025-01-07,7090,Paid Repaired
+74,2024-07-22,7436,Paid Repaired
+75,2024-09-07,5157,Pending
+76,2024-05-22,7292,
+77,2023-10-15,9606,Paid Repaired
+78,2024-05-03,9418,Warranty Void
+79,2024-11-18,8488,Paid Repaired
+80,2024-05-11,1075,Warranty Void
+81,2024-07-11,7258,Pending
+82,2023-12-30,2550,Paid Repaired
+83,2025-06-18,1239,Paid Repaired
+84,2024-08-14,5736,Paid Repaired
+85,2025-03-22,878,Warranty Void
+86,2024-09-29,6000,Paid Repaired
+87,2023-09-01,659,Paid Repaired
+88,2024-05-02,5490,Paid Repaired
+89,2024-10-07,1110,Paid Repaired
+90,2025-03-10,254,Paid Repaired
+91,2024-05-07,1781,Paid Repaired
+92,2025-05-08,9318,Warranty Void
+93,2023-06-04,5132,Paid Repaired
+94,2024-04-30,3365,Paid Repaired
+95,2024-12-19,9586,Paid Repaired
+96,2025-04-14,3026,Paid Repaired
+97,2024-01-06,5716,Paid Repaired
+98,2025-07-07,6741,Warranty Void
+99,2024-01-12,6614,Warranty Void
+100,2023-11-27,6893,Paid Repaired
+101,2024-06-10,4806,Warranty Void
+102,2024-02-06,7398,Paid Repaired
+103,2024-03-19,8609,Paid Repaired
+104,2024-02-02,407,Paid Repaired
+105,2024-10-28,3181,Paid Repaired
+106,2025-05-10,7344,Warranty Void
+107,2024-02-09,2667,Warranty Void
+108,2025-09-01,8075,Paid Repaired
+109,2024-10-19,5537,Warranty Void
+110,2024-05-29,3618,Paid Repaired
+111,2024-05-17,472,Warranty Void
+112,2025-03-10,4384,Paid Repaired
+113,2024-05-01,3274,Pending
+114,2025-08-21,4311,Paid Repaired
+115,2024-10-23,7124,
+116,2024-12-08,3353,Paid Repaired
+117,2025-09-08,6290,Paid Repaired
+118,2025-07-15,7141,Paid Repaired
+119,2024-02-01,4847,Paid Repaired
+120,2023-09-06,7339,Paid Repaired
+121,2024-10-04,8481,Paid Repaired
+122,2025-01-23,2325,Paid Repaired
+123,2023-12-28,6201,Paid Repaired
+124,2024-08-23,5840,Warranty Void
+125,2025-04-21,9365,Paid Repaired
+126,2023-07-14,241,Paid Repaired
+127,2025-04-25,6151,Paid Repaired
+128,2024-04-10,4079,Warranty Void
+129,2024-05-29,6591,Paid Repaired
+130,2024-02-17,5997,Paid Repaired
+131,2024-08-04,5529,Paid Repaired
+132,2024-11-16,9233,Paid Repaired
+133,2024-12-30,7714,Paid Repaired
+134,2023-08-10,5499,Warranty Void
+135,2025-05-08,9652,Paid Repaired
+136,2024-11-19,5906,Warranty Void
+137,2025-02-23,529,Warranty Void
+138,2025-02-27,2623,Warranty Void
+139,2025-05-14,1671,Warranty Void
+140,2024-09-15,201,Warranty Void
+141,2024-06-29,2616,Paid Repaired
+142,2023-11-26,4837,Pending
+143,2024-01-08,3510,Paid Repaired
+144,2025-06-09,1566,Warranty Void
+145,2023-12-15,2410,Paid Repaired
+146,2025-02-03,9005,Paid Repaired
+147,2024-03-21,8953,Paid Repaired
+148,2023-10-19,8152,Paid Repaired
+149,2024-03-21,2894,Warranty Void
+150,2023-04-11,8002,Warranty Void
+151,2025-05-18,3395,Paid Repaired
+152,2023-10-28,1182,Paid Repaired
+153,2025-01-07,6664,Warranty Void
+154,2023-11-22,1429,Warranty Void
+155,2024-10-11,1974,Warranty Void
+156,2023-11-29,8420,Paid Repaired
+157,2024-02-29,1207,Warranty Void
+158,2024-08-13,2168,Warranty Void
+159,2025-01-22,8059,Paid Repaired
+160,2023-09-07,8319,Paid Repaired
+161,2023-08-28,7504,
+162,2023-11-22,5358,Paid Repaired
+163,2023-06-05,5639,Pending
+164,2025-07-25,4923,Warranty Void
+165,2024-08-19,5748,Paid Repaired
+166,2023-08-27,7793,Paid Repaired
+167,2024-10-20,6018,Paid Repaired
+168,2023-08-28,9670,Paid Repaired
+169,2025-06-27,7568,Paid Repaired
+170,2023-12-15,2764,Warranty Void
+171,2024-01-05,7855,Paid Repaired
+172,2024-05-02,6206,Paid Repaired
+173,2025-07-12,7558,Warranty Void
+174,2025-09-27,9975,Warranty Void
+175,2023-10-31,4005,Warranty Void
+176,2024-01-03,7787,Warranty Void
+177,2024-04-04,8987,Paid Repaired
+178,2025-08-28,1198,Paid Repaired
+179,2024-12-29,4500,Paid Repaired
+180,2023-08-16,9088,Paid Repaired
+181,2025-10-13,4925,Paid Repaired
+182,2025-01-16,5708,Paid Repaired
+183,2023-07-24,5882,Paid Repaired
+184,2023-09-12,8728,Paid Repaired
+185,2025-02-04,2882,Paid Repaired
+186,2025-06-21,3037,Warranty Void
+187,2025-01-08,8886,Paid Repaired
+188,2025-03-28,559,Paid Repaired
+189,2025-02-15,1820,Pending
+190,2024-01-21,7818,Paid Repaired
+191,2024-11-06,9043,Paid Repaired
+192,2023-12-09,4843,Paid Repaired
+193,2024-12-18,9250,Paid Repaired
+194,2025-01-16,8609,Warranty Void
+195,2024-03-29,3825,Warranty Void
+196,2024-04-17,8925,Paid Repaired
+197,2025-08-08,5286,Paid Repaired
+198,2024-03-05,5635,Paid Repaired
+199,2024-05-10,4226,Paid Repaired
+200,2024-01-16,8448,Paid Repaired
+201,2024-12-05,9264,Paid Repaired
+202,2024-12-03,6387,Warranty Void
+203,2023-12-21,3628,Paid Repaired
+204,2023-12-02,2904,Warranty Void
+205,2024-01-26,4456,Paid Repaired
+206,2024-12-05,4119,Paid Repaired
+207,2024-11-06,4978,Pending
+208,2024-07-03,6178,Paid Repaired
+209,2025-02-03,4857,Warranty Void
+210,2024-06-15,8238,Paid Repaired
+211,2023-10-10,8579,Paid Repaired
+212,2023-12-12,3701,Paid Repaired
+213,2024-08-17,7379,
+214,2023-08-19,4026,Paid Repaired
+215,2024-01-30,5434,Paid Repaired
+216,2024-05-18,3227,Paid Repaired
+217,2023-04-30,8506,Warranty Void
+218,2023-10-26,9458,Paid Repaired
+219,2025-02-20,2464,Paid Repaired
+220,2025-01-09,1000,
+221,2024-03-11,2632,Pending
+222,2023-07-10,6585,Paid Repaired
+223,2024-12-28,6247,Paid Repaired
+224,2023-03-31,4035,Warranty Void
+225,2024-09-15,8886,Paid Repaired
+226,2024-04-24,5462,Paid Repaired
+227,2024-04-14,8888,Paid Repaired
+228,2025-02-14,1973,Paid Repaired
+229,2023-10-23,39,Paid Repaired
+230,2024-09-20,2847,Paid Repaired
+231,2025-05-29,8156,Paid Repaired
+232,2024-01-23,4586,Paid Repaired
+233,2023-11-06,5332,Pending
+234,2025-08-09,9378,Paid Repaired
+235,2024-07-07,1075,Paid Repaired
+236,2024-01-15,6946,Paid Repaired
+237,2024-12-10,8874,Pending
+238,2024-07-07,7907,Paid Repaired
+239,2024-09-02,6628,Paid Repaired
+240,2023-12-28,1382,Warranty Void
+241,2023-09-14,8550,Warranty Void
+242,2025-07-07,4810,Warranty Void
+243,2023-05-16,854,Paid Repaired
+244,2025-08-04,1908,Pending
+245,2024-10-15,4051,Paid Repaired
+246,2023-09-26,8885,Paid Repaired
+247,2024-06-14,9474,Paid Repaired
+248,2023-06-04,1474,Paid Repaired
+249,2024-06-12,3863,Paid Repaired
+250,2025-01-05,6532,Warranty Void
+251,2023-07-30,9433,Pending
+252,2023-08-18,6757,Paid Repaired
+253,2025-01-21,9039,Paid Repaired
+254,2023-12-31,5039,Warranty Void
+255,2024-05-24,3486,Paid Repaired
+256,2024-05-21,9165,Paid Repaired
+257,2025-01-23,5964,Warranty Void
+258,2025-09-06,4530,Paid Repaired
+259,2025-03-28,9660,Paid Repaired
+260,2025-06-09,1517,Paid Repaired
+261,2024-02-05,9434,Warranty Void
+262,2025-02-16,7596,Paid Repaired
+263,2024-11-27,9893,Paid Repaired
+264,2024-06-21,681,Warranty Void
+265,2025-03-28,5976,Pending
+266,2024-09-13,7551,Warranty Void
+267,2024-04-30,8827,Paid Repaired
+268,2024-08-01,1108,Warranty Void
+269,2025-01-16,6402,Warranty Void
+270,2024-08-16,8489,Paid Repaired
+271,2025-02-05,2741,Paid Repaired
+272,2023-08-15,5100,Paid Repaired
+273,2023-12-23,119,Warranty Void
+274,2024-06-06,1565,Paid Repaired
+275,2024-03-22,3893,Paid Repaired
+276,2024-04-21,1787,Paid Repaired
+277,2025-06-24,3719,Paid Repaired
+278,2024-10-16,9706,Pending
+279,2023-04-14,9779,Paid Repaired
+280,2024-10-29,8326,Paid Repaired
+281,2025-12-05,1537,Paid Repaired
+282,2023-08-23,1193,Paid Repaired
+283,2024-11-27,9095,
+284,2025-04-10,9267,Paid Repaired
+285,2023-09-30,4268,Paid Repaired
+286,2024-05-18,1934,Paid Repaired
+287,2023-12-26,7164,Pending
+288,2025-02-12,1716,Paid Repaired
+289,2025-05-04,6801,Paid Repaired
+290,2024-12-18,4103,Paid Repaired
+291,2024-02-14,7101,Warranty Void
+292,2024-09-08,8143,Paid Repaired
+293,2024-10-20,8068,Paid Repaired
+294,2025-02-12,3489,Warranty Void
+295,2025-09-28,8444,Paid Repaired
+296,2023-09-17,6876,Paid Repaired
+297,2025-02-24,7602,
+298,2023-12-05,1469,Pending
+299,2025-01-12,73,Paid Repaired
+300,2024-03-23,2941,
+301,2025-05-09,4929,Warranty Void
+302,2025-01-31,5095,Warranty Void
+303,2025-03-14,6059,Paid Repaired
+304,2024-05-31,9942,Warranty Void
+305,2023-09-21,3169,
+306,2024-08-09,3280,Paid Repaired
+307,2025-09-22,9019,Paid Repaired
+308,2025-07-25,84,Paid Repaired
+309,2025-05-14,9922,Paid Repaired
+310,2024-07-25,2762,Pending
+311,2024-02-11,1855,Paid Repaired
+312,2024-10-08,8393,Pending
+313,2024-08-26,9311,Warranty Void
+314,2024-11-27,1003,Warranty Void
+315,2024-10-05,1204,Paid Repaired
+316,2025-05-18,1460,Paid Repaired
+317,2024-07-09,3752,Paid Repaired
+318,2024-03-04,4603,Paid Repaired
+319,2025-11-28,3553,Paid Repaired
+320,2024-08-25,5579,Paid Repaired
+321,2025-05-20,3233,Warranty Void
+322,2024-11-22,9700,Pending
+323,2024-02-13,5761,Pending
+324,2023-12-18,5812,Warranty Void
+325,2024-03-04,5121,Warranty Void
+326,2024-07-03,7228,Warranty Void
+327,2023-12-08,8820,Paid Repaired
+328,2024-05-13,4185,Paid Repaired
+329,2024-07-18,90,Warranty Void
+330,2025-02-17,7275,Warranty Void
+331,2024-05-18,4698,Paid Repaired
+332,2024-02-28,546,Paid Repaired
+333,2024-03-06,2091,Paid Repaired
+334,2023-12-22,7033,Paid Repaired
+335,2024-06-05,8340,Paid Repaired
+336,2024-03-22,9337,Warranty Void
+337,2024-05-28,4261,Paid Repaired
+338,2023-09-01,5835,Paid Repaired
+339,2024-07-15,3556,Paid Repaired
+340,2024-09-13,8954,Paid Repaired
+341,2024-08-10,3120,Pending
+342,2025-01-16,1002,Paid Repaired
+343,2024-09-28,8616,Paid Repaired
+344,2024-11-19,5423,Paid Repaired
+345,2023-10-23,6171,Paid Repaired
+346,2024-07-01,4554,Paid Repaired
+347,2023-09-29,4324,Pending
+348,2024-04-18,6518,Paid Repaired
+349,2025-10-04,1565,Warranty Void
+350,2024-11-23,2992,Warranty Void
+351,2025-01-06,6310,Paid Repaired
+352,2023-09-20,5550,Paid Repaired
+353,2023-11-03,9807,Paid Repaired
+354,2025-01-13,958,Warranty Void
+355,2024-04-26,6529,Warranty Void
+356,2025-06-20,3909,Paid Repaired
+357,2023-09-13,9845,Paid Repaired
+358,2023-03-28,5589,Paid Repaired
+359,2025-05-19,8076,Warranty Void
+360,2025-01-08,7012,Warranty Void
+361,2024-06-02,4314,Warranty Void
+362,2024-10-08,6599,Paid Repaired
+363,2024-11-21,6293,Paid Repaired
+364,2023-04-27,7661,Warranty Void
+365,2024-12-29,1746,Paid Repaired
+366,2024-06-01,7882,Paid Repaired
+367,2025-05-22,8095,Paid Repaired
+368,2024-02-21,6771,Paid Repaired
+369,2023-11-18,6999,Pending
+370,2024-11-20,6602,Paid Repaired
+371,2025-08-20,1243,Pending
+372,2023-12-03,1004,Paid Repaired
+373,2025-03-20,189,Paid Repaired
+374,2024-09-09,6192,Paid Repaired
+375,2024-08-03,4110,Warranty Void
+376,2025-01-19,5025,Pending
+377,2024-08-24,9450,Warranty Void
+378,2023-07-06,6784,Warranty Void
+379,2024-12-02,8705,Warranty Void
+380,2023-10-27,2295,
+381,2025-01-04,3720,Paid Repaired
+382,2024-02-28,3158,Paid Repaired
+383,2025-08-20,4854,Paid Repaired
+384,2024-03-07,838,Paid Repaired
+385,2023-11-23,5709,Pending
+386,2024-06-26,4111,Paid Repaired
+387,2025-05-03,8635,Paid Repaired
+388,2024-09-28,6096,Paid Repaired
+389,2024-04-12,4364,Paid Repaired
+390,2024-07-19,1713,Pending
+391,2023-08-10,1618,Paid Repaired
+392,2025-02-04,3971,Paid Repaired
+393,2023-09-28,1027,Warranty Void
+394,2024-09-08,7993,Paid Repaired
+395,2023-10-26,9169,Warranty Void
+396,2024-01-17,9553,Warranty Void
+397,2023-06-24,3502,Paid Repaired
+398,2024-06-05,1686,Paid Repaired
+399,2024-02-28,9602,Paid Repaired
+400,2024-09-23,7245,Paid Repaired
+401,2024-09-15,7406,Paid Repaired
+402,2025-01-23,6868,Pending
+403,2025-02-05,5384,Paid Repaired
+404,2024-02-20,1996,Warranty Void
+405,2024-09-27,8518,Paid Repaired
+406,2024-05-17,2507,Warranty Void
+407,2023-07-18,9948,Paid Repaired
+408,2023-08-29,8081,Warranty Void
+409,2024-09-29,1660,Warranty Void
+410,2024-01-09,740,Paid Repaired
+411,2024-04-19,1466,Paid Repaired
+412,2024-06-12,407,Paid Repaired
+413,2025-08-04,4982,Paid Repaired
+414,2025-04-25,2400,Paid Repaired
+415,2025-10-07,8147,Pending
+416,2023-09-30,9003,Warranty Void
+417,2023-03-24,6172,Paid Repaired
+418,2024-06-14,8366,Paid Repaired
+419,2024-01-15,223,Paid Repaired
+420,2023-09-17,2716,Warranty Void
+421,2024-11-20,1934,Paid Repaired
+422,2023-07-27,152,Pending
+423,2024-05-29,1980,Warranty Void
+424,2024-10-14,7662,Warranty Void
+425,2025-06-03,7817,Paid Repaired
+426,2024-11-05,3667,Paid Repaired
+427,2023-09-12,2499,Paid Repaired
+428,2024-05-16,7398,Paid Repaired
+429,2023-12-17,7947,Paid Repaired
+430,2024-08-18,2619,Warranty Void
+431,2024-01-07,1743,Paid Repaired
+432,2023-05-08,4022,Paid Repaired
+433,2024-11-22,8965,Paid Repaired
+434,2025-11-09,3804,Warranty Void
+435,2025-04-02,9435,Paid Repaired
+436,2024-01-15,2752,Paid Repaired
+437,2023-11-17,513,Paid Repaired
+438,2024-01-03,9024,Paid Repaired
+439,2025-01-28,4727,Paid Repaired
+440,2024-09-16,1436,Pending
+441,2024-03-16,3079,Warranty Void
+442,2025-06-03,9629,Paid Repaired
+443,2024-11-26,3075,Paid Repaired
+444,2024-08-07,6892,Paid Repaired
+445,2024-07-07,9786,Paid Repaired
+446,2024-03-10,5647,Warranty Void
+447,2025-04-09,6358,Pending
+448,2024-03-05,8583,Paid Repaired
+449,2025-10-01,6776,Paid Repaired
+450,2024-06-04,5696,Warranty Void
+451,2024-11-20,6825,Warranty Void
+452,2023-11-22,9389,Pending
+453,2023-06-13,7306,
+454,2024-03-22,9185,Paid Repaired
+455,2023-06-25,5412,Paid Repaired
+456,2024-10-31,9543,Paid Repaired
+457,2023-10-07,5975,Paid Repaired
+458,2024-10-12,2406,Pending
+459,2024-10-22,6309,Paid Repaired
+460,2024-05-08,7180,
+461,2024-09-12,5653,Warranty Void
+462,2024-05-28,5752,Warranty Void
+463,2023-02-26,2992,Paid Repaired
+464,2023-07-29,9258,Warranty Void
+465,2024-04-05,1247,Paid Repaired
+466,2024-02-06,6024,Paid Repaired
+467,2024-05-22,8851,Warranty Void
+468,2024-11-30,7141,Paid Repaired
+469,2025-02-02,2782,Pending
+470,2024-10-09,6071,Paid Repaired
+471,2024-11-16,5280,Paid Repaired
+472,2023-10-16,4282,Paid Repaired
+473,2024-01-06,4798,Paid Repaired
+474,2024-05-21,6018,Paid Repaired
+475,2025-07-24,4405,Warranty Void
+476,2023-06-04,8667,Paid Repaired
+477,2023-04-24,9426,Warranty Void
+478,2025-05-22,6908,Paid Repaired
+479,2025-02-21,1353,Warranty Void
+480,2024-01-18,4592,Paid Repaired
+481,2024-09-14,8713,Warranty Void
+482,2024-06-11,1467,Pending
+483,2025-06-07,547,Warranty Void
+484,2024-03-24,7483,Warranty Void
+485,2025-01-20,4326,Warranty Void
+486,2025-04-21,3014,Paid Repaired
+487,2024-07-28,5208,Paid Repaired
+488,2023-10-05,9745,Paid Repaired
+489,2024-06-28,1206,Paid Repaired
+490,2024-02-13,4822,Paid Repaired
+491,2023-11-30,1532,Paid Repaired
+492,2024-12-15,3319,Pending
+493,2024-03-25,5005,Paid Repaired
+494,2024-01-09,7213,Pending
+495,2025-07-09,3657,Warranty Void
+496,2025-06-23,8140,Paid Repaired
+497,2024-01-30,6569,Paid Repaired
+498,2023-08-17,1092,Paid Repaired
+499,2025-05-21,9768,
+500,2025-02-09,2037,Warranty Void
+501,2024-11-24,218,Warranty Void
+502,2024-12-21,314,Paid Repaired
+503,2025-10-18,6333,Paid Repaired
+504,2025-03-25,8662,Paid Repaired
+505,2025-04-27,6958,Warranty Void
+506,2024-01-10,2184,Paid Repaired
+507,2025-05-24,3446,Paid Repaired
+508,2024-06-11,4857,Paid Repaired
+509,2025-06-23,7207,Paid Repaired
+510,2024-04-04,6566,Paid Repaired
+511,2025-01-25,3839,Paid Repaired
+512,2024-02-01,8492,Warranty Void
+513,2024-08-09,9284,Paid Repaired
+514,2023-10-16,1171,Warranty Void
+515,2025-02-26,1256,Paid Repaired
+516,2025-01-26,1399,
+517,2024-02-19,8020,Warranty Void
+518,2024-01-02,2422,Paid Repaired
+519,2024-05-15,7570,Paid Repaired
+520,2024-11-17,31,Paid Repaired
+521,2023-11-13,4238,Paid Repaired
+522,2024-01-11,1390,Paid Repaired
+523,2024-10-06,9263,Paid Repaired
+524,2024-12-24,5852,Paid Repaired
+525,2024-07-29,5298,Paid Repaired
+526,2024-12-05,4385,Paid Repaired
+527,2023-07-24,9755,Pending
+528,2025-02-12,6951,Paid Repaired
+529,2024-09-22,4335,Paid Repaired
+530,2023-04-22,2484,Warranty Void
+531,2024-10-10,4495,Paid Repaired
+532,2023-06-07,6506,Paid Repaired
+533,2024-01-29,3960,Paid Repaired
+534,2024-04-23,3629,Paid Repaired
+535,2025-04-30,3070,
+536,2023-12-24,3396,Paid Repaired
+537,2024-04-16,6424,Paid Repaired
+538,2023-12-27,9190,Paid Repaired
+539,2024-11-26,7679,Paid Repaired
+540,2024-04-23,5980,Paid Repaired
+541,2023-08-23,1692,Paid Repaired
+542,2024-08-26,2980,Warranty Void
+543,2023-10-25,1592,Warranty Void
+544,2024-01-31,6589,Warranty Void
+545,2024-04-04,6402,Warranty Void
+546,2023-09-17,8055,Paid Repaired
+547,2025-01-22,8628,Paid Repaired
+548,2024-05-17,1532,Paid Repaired
+549,2025-05-15,2089,Paid Repaired
+550,2023-06-12,5743,Paid Repaired
+551,2023-09-05,2483,Warranty Void
+552,2023-03-13,4477,Pending
+553,2024-10-22,5412,Warranty Void
+554,2024-06-15,6720,Paid Repaired
+555,2025-08-28,670,Paid Repaired
+556,2024-01-03,9089,Paid Repaired
+557,2023-06-28,116,Warranty Void
+558,2024-08-10,6752,Paid Repaired
+559,2024-09-18,9209,Paid Repaired
+560,2024-09-02,9650,Paid Repaired
+561,2023-07-26,3836,Paid Repaired
+562,2025-07-19,306,Paid Repaired
+563,2025-04-09,2419,Paid Repaired
+564,2024-02-02,8438,Paid Repaired
+565,2025-09-01,3247,Paid Repaired
+566,2024-10-16,9891,Paid Repaired
+567,2024-01-13,5836,Paid Repaired
+568,2023-08-28,6678,Paid Repaired
+569,2025-03-29,7304,Paid Repaired
+570,2024-03-24,6078,Paid Repaired
+571,2025-08-21,4510,Warranty Void
+572,2024-11-03,6716,Paid Repaired
+573,2024-07-17,6607,Paid Repaired
+574,2024-03-14,7788,Paid Repaired
+575,2024-07-17,6968,Paid Repaired
+576,2024-11-07,2541,Paid Repaired
+577,2023-06-25,4620,Paid Repaired
+578,2025-03-19,9072,Paid Repaired
+579,2023-04-04,2951,Paid Repaired
+580,2024-07-02,4283,Paid Repaired
+581,2024-08-30,584,Paid Repaired
+582,2025-07-17,9864,Paid Repaired
+583,2025-01-13,8093,Pending
+584,2024-07-02,5340,Warranty Void
+585,2024-03-29,9281,Warranty Void
+586,2023-09-26,4473,Warranty Void
+587,2025-01-24,5337,Paid Repaired
+588,2025-01-23,2418,Paid Repaired
+589,2024-10-27,8647,Paid Repaired
+590,2024-06-24,7753,Paid Repaired
+591,2023-12-26,6051,Warranty Void
+592,2024-01-20,3407,Pending
+593,2025-01-23,4243,Paid Repaired
+594,2024-06-12,8701,Pending
+595,2024-08-18,1573,Warranty Void
+596,2023-11-27,175,Warranty Void
+597,2024-11-05,6122,Paid Repaired
+598,2024-08-30,1806,Paid Repaired
+599,2025-03-05,4122,Warranty Void
+600,2025-01-13,5527,Paid Repaired
+601,2024-04-24,4374,Paid Repaired
+602,2024-05-04,954,Paid Repaired
+603,2024-01-12,5933,Paid Repaired
+604,2024-05-08,9807,Warranty Void
+605,2024-02-11,1387,Pending
+606,2024-10-27,7997,Paid Repaired
+607,2023-03-16,8281,Pending
+608,2025-07-19,5490,Paid Repaired
+609,2023-11-26,7718,Pending
+610,2023-12-02,57,Paid Repaired
+611,2023-09-30,739,Paid Repaired
+612,2024-04-19,2814,Paid Repaired
+613,2024-05-07,6542,Warranty Void
+614,2025-06-07,4806,Warranty Void
+615,2024-07-10,9598,Paid Repaired
+616,2024-03-31,4875,Paid Repaired
+617,2025-06-15,705,Warranty Void
+618,2025-04-18,4609,Paid Repaired
+619,2024-10-06,2939,Paid Repaired
+620,2023-12-31,6913,Paid Repaired
+621,2023-07-27,4671,Paid Repaired
+622,2024-01-12,307,Paid Repaired
+623,2023-10-27,623,Paid Repaired
+624,2024-01-21,5588,Paid Repaired
+625,2024-10-19,2132,Pending
+626,2024-08-20,7365,Paid Repaired
+627,2024-07-28,5186,Paid Repaired
+628,2025-04-04,492,Warranty Void
+629,2025-05-06,2415,Paid Repaired
+630,2023-07-09,8135,Pending
+631,2025-03-10,9826,Paid Repaired
+632,2024-12-26,7318,Paid Repaired
+633,2024-03-28,5545,Paid Repaired
+634,2023-06-19,3271,Paid Repaired
+635,2024-07-09,2004,Paid Repaired
+636,2023-07-25,247,Warranty Void
+637,2024-04-12,9729,Warranty Void
+638,2023-08-24,3554,Paid Repaired
+639,2024-05-08,4545,Warranty Void
+640,2024-06-20,3462,Paid Repaired
+641,2025-01-27,2757,Paid Repaired
+642,2024-02-28,4365,Warranty Void
+643,2024-12-21,6704,Paid Repaired
+644,2024-02-15,5212,Paid Repaired
+645,2023-12-29,739,Pending
+646,2023-11-13,7080,Paid Repaired
+647,2023-11-16,5571,Paid Repaired
+648,2023-12-23,6627,Paid Repaired
+649,2023-12-19,8485,Paid Repaired
+650,2024-07-18,2510,Warranty Void
+651,2024-03-28,8736,Paid Repaired
+652,2024-11-23,7643,Paid Repaired
+653,2024-09-11,2126,Paid Repaired
+654,2025-07-21,9912,Warranty Void
+655,2025-02-11,7615,Pending
+656,2024-07-12,9216,Paid Repaired
+657,2023-03-14,9075,Paid Repaired
+658,2025-05-22,2212,Warranty Void
+659,2024-09-08,1292,Paid Repaired
+660,2023-09-30,4500,Paid Repaired
+661,2024-07-22,8497,Warranty Void
+662,2023-09-15,4333,Paid Repaired
+663,2023-11-15,8745,Paid Repaired
+664,2025-04-02,1026,Paid Repaired
+665,2024-10-29,875,Paid Repaired
+666,2023-08-13,118,Pending
+667,2024-08-01,6890,Paid Repaired
+668,2024-02-26,1037,Pending
+669,2024-08-24,3597,Paid Repaired
+670,2024-09-23,5877,Warranty Void
+671,2024-05-18,494,Warranty Void
+672,2024-10-16,5244,Paid Repaired
+673,2024-06-22,9983,Paid Repaired
+674,2023-09-12,8532,Paid Repaired
+675,2024-02-09,2336,Warranty Void
+676,2024-05-12,4316,Pending
+677,2023-12-07,9569,Pending
+678,2023-09-07,9006,Warranty Void
+679,2023-12-27,7761,Paid Repaired
+680,2025-06-14,639,Paid Repaired
+681,2024-06-03,3380,Warranty Void
+682,2023-11-22,9441,Paid Repaired
+683,2023-09-29,1270,Paid Repaired
+684,2024-10-29,5032,Warranty Void
+685,2024-12-10,3547,Paid Repaired
+686,2024-01-25,584,Paid Repaired
+687,2024-02-07,6403,Paid Repaired
+688,2024-06-17,9410,Warranty Void
+689,2024-09-25,9464,Warranty Void
+690,2025-03-27,4806,Paid Repaired
+691,2025-02-18,4520,Paid Repaired
+692,2023-06-11,760,Warranty Void
+693,2024-07-21,6213,Paid Repaired
+694,2025-10-12,9582,Paid Repaired
+695,2024-07-11,4821,Paid Repaired
+696,2024-07-06,8838,Paid Repaired
+697,2024-09-21,3800,Pending
+698,2024-12-11,6963,Paid Repaired
+699,2023-11-10,8617,Warranty Void
+700,2024-09-14,9050,Warranty Void
+701,2024-02-16,8778,Paid Repaired
+702,2024-01-12,9661,Paid Repaired
+703,2024-01-18,736,Paid Repaired
+704,2024-05-23,9312,Paid Repaired
+705,2024-09-28,4885,
+706,2025-05-03,6502,Paid Repaired
+707,2025-04-04,8015,Paid Repaired
+708,2024-10-02,8351,Warranty Void
+709,2025-04-05,6537,Pending
+710,2025-08-02,5927,Paid Repaired
+711,2023-11-21,4989,Paid Repaired
+712,2024-11-16,2062,Paid Repaired
+713,2023-07-30,3650,Paid Repaired
+714,2025-02-01,3859,Paid Repaired
+715,2024-10-16,7699,Paid Repaired
+716,2025-07-17,6444,Paid Repaired
+717,2024-05-31,6907,Paid Repaired
+718,2024-06-10,158,Paid Repaired
+719,2023-08-14,7210,Warranty Void
+720,2025-05-10,4207,Paid Repaired
+721,2024-12-26,1751,Paid Repaired
+722,2025-06-26,6328,Pending
+723,2024-08-25,8770,Warranty Void
+724,2025-04-09,9155,Pending
+725,2023-07-07,6185,Paid Repaired
+726,2023-10-27,7409,Paid Repaired
+727,2024-06-11,3305,Warranty Void
+728,2025-01-15,1160,Paid Repaired
+729,2025-01-28,17,Paid Repaired
+730,2025-11-19,3341,Paid Repaired
+731,2025-04-22,7578,Paid Repaired
+732,2024-05-06,9263,Paid Repaired
+733,2024-04-07,5690,Paid Repaired
+734,2024-06-24,724,Pending
+735,2024-02-16,1427,Paid Repaired
+736,2024-08-23,1806,Warranty Void
+737,2024-05-06,9609,Pending
+738,2024-06-02,9088,Paid Repaired
+739,2025-02-01,7342,Paid Repaired
+740,2023-08-08,6011,Paid Repaired
+741,2024-04-16,9199,Paid Repaired
+742,2023-06-20,9679,Warranty Void
+743,2025-03-12,4134,Paid Repaired
+744,2024-07-11,489,Warranty Void
+745,2024-04-06,7272,Paid Repaired
+746,2024-10-10,2259,Paid Repaired
+747,2024-09-12,8079,Warranty Void
+748,2025-08-18,2610,Warranty Void
+749,2023-10-02,3458,Paid Repaired
+750,2024-01-16,2489,Pending
+751,2024-09-30,4516,Paid Repaired
+752,2024-03-03,6274,Paid Repaired
+753,2024-11-02,7153,Paid Repaired
+754,2024-01-31,6622,Paid Repaired
+755,2023-07-01,4333,Paid Repaired
+756,2023-08-10,4725,Warranty Void
+757,2023-10-15,7027,Pending
+758,2023-08-06,3621,Paid Repaired
+759,2023-06-22,2389,Paid Repaired
+760,2024-08-17,3955,Warranty Void
+761,2023-09-08,8214,Pending
+762,2025-04-24,8588,Paid Repaired
+763,2025-03-16,5594,Paid Repaired
+764,2023-11-08,5876,Warranty Void
+765,2024-01-22,8076,Paid Repaired
+766,2024-11-05,5795,Pending
+767,2023-11-29,1469,Paid Repaired
+768,2023-12-01,1387,Paid Repaired
+769,2025-06-30,7616,Paid Repaired
+770,2024-03-06,4060,Warranty Void
+771,2025-07-08,1201,Warranty Void
+772,2023-09-19,2878,Paid Repaired
+773,2023-08-13,8172,Paid Repaired
+774,2023-02-25,7443,Warranty Void
+775,2025-10-01,5745,Paid Repaired
+776,2024-10-22,9552,Pending
+777,2024-09-13,9698,Paid Repaired
+778,2024-08-23,8869,Paid Repaired
+779,2024-09-02,8666,Paid Repaired
+780,2023-12-07,5358,Warranty Void
+781,2025-01-28,3332,Paid Repaired
+782,2025-08-01,7300,Warranty Void
+783,2024-08-08,4753,Warranty Void
+784,2024-02-25,6264,Paid Repaired
+785,2024-05-21,4749,Paid Repaired
+786,2025-08-08,5446,Paid Repaired
+787,2024-08-09,5817,Paid Repaired
+788,2024-09-10,4068,Warranty Void
+789,2024-09-02,2971,Pending
+790,2024-08-05,5453,
+791,2023-11-17,6928,Paid Repaired
+792,2024-03-17,8191,Paid Repaired
+793,2024-03-01,2711,Warranty Void
+794,2023-10-27,1062,Warranty Void
+795,2025-06-26,1987,Paid Repaired
+796,2025-09-04,3203,Pending
+797,2024-03-16,7457,Paid Repaired
+798,2023-05-11,3072,Paid Repaired
+799,2025-02-19,2097,Paid Repaired
+800,2025-04-11,2118,Warranty Void
+801,2023-11-30,3994,Warranty Void
+802,2024-10-17,1361,Pending
+803,2024-10-26,7301,Paid Repaired
+804,2025-12-02,2535,Warranty Void
+805,2025-07-24,7140,Paid Repaired
+806,2023-09-15,8001,Paid Repaired
+807,2025-01-14,168,Pending
+808,2024-02-03,3715,Warranty Void
+809,2024-11-05,8858,Paid Repaired
+810,2024-01-05,1271,Warranty Void
+811,2023-11-21,7136,Warranty Void
+812,2023-12-31,357,Paid Repaired
+813,2025-06-14,7291,Paid Repaired
+814,2024-09-20,3847,Warranty Void
+815,2024-08-21,9779,Paid Repaired
+816,2023-09-18,1688,Warranty Void
+817,2024-09-15,4749,Paid Repaired
+818,2024-02-18,6090,Paid Repaired
+819,2023-08-25,7562,Pending
+820,2024-11-16,4682,Warranty Void
+821,2025-04-08,338,Warranty Void
+822,2025-08-16,9452,Warranty Void
+823,2025-07-02,1382,Paid Repaired
+824,2025-04-11,4681,Paid Repaired
+825,2024-01-20,2077,Paid Repaired
+826,2024-05-07,4419,Paid Repaired
+827,2024-04-10,3606,Paid Repaired
+828,2025-01-12,6250,Paid Repaired
+829,2024-04-18,6771,Warranty Void
+830,2024-05-09,468,Paid Repaired
+831,2024-05-04,4080,Warranty Void
+832,2025-06-16,1036,Paid Repaired
+833,2025-08-26,6693,Paid Repaired
+834,2024-09-30,7119,Warranty Void
+835,2023-04-05,832,Paid Repaired
+836,2024-04-18,5558,Paid Repaired
+837,2023-07-29,4374,Warranty Void
+838,2023-06-11,4000,Paid Repaired
+839,2024-09-24,6298,Paid Repaired
+840,2023-07-20,3870,Paid Repaired
+841,2023-07-16,8834,Paid Repaired
+842,2024-06-09,1492,Paid Repaired
+843,2024-12-19,2074,Paid Repaired
+844,2024-10-13,2242,Paid Repaired
+845,2025-03-16,5732,Paid Repaired
+846,2023-11-16,8367,Paid Repaired
+847,2023-12-06,8525,Warranty Void
+848,2023-09-15,8623,
+849,2024-05-19,5045,Paid Repaired
+850,2023-03-21,1303,Warranty Void
+851,2024-01-06,4212,Pending
+852,2023-10-09,5849,Paid Repaired
+853,2025-03-07,2840,Paid Repaired
+854,2024-06-27,350,Paid Repaired
+855,2025-02-22,2901,Warranty Void
+856,2024-04-09,92,Warranty Void
+857,2024-09-26,8583,Pending
+858,2025-10-07,7611,Paid Repaired
+859,2023-02-12,3216,Paid Repaired
+860,2025-05-01,3305,Paid Repaired
+861,2024-07-27,2661,Paid Repaired
+862,2024-11-05,3414,Paid Repaired
+863,2023-10-19,9725,Warranty Void
+864,2024-02-13,3235,Paid Repaired
+865,2025-03-20,1612,Paid Repaired
+866,2025-01-21,9069,Paid Repaired
+867,2024-12-16,3574,Paid Repaired
+868,2025-02-04,769,Paid Repaired
+869,2024-07-01,8582,Paid Repaired
+870,2024-05-11,6928,Paid Repaired
+871,2024-01-15,905,Warranty Void
+872,2023-10-31,2926,Paid Repaired
+873,2025-03-31,1080,Paid Repaired
+874,2023-06-25,8771,Paid Repaired
+875,2024-04-28,9133,Paid Repaired
+876,2024-11-28,7151,Paid Repaired
+877,2024-11-05,9131,Paid Repaired
+878,2023-11-17,6934,Paid Repaired
+879,2024-04-14,6974,Pending
+880,2025-06-20,9216,Paid Repaired
+881,2025-04-30,8371,Paid Repaired
+882,2024-08-10,3922,Warranty Void
+883,2025-09-11,9914,Warranty Void
+884,2025-01-21,9857,Warranty Void
+885,2024-03-05,6633,Warranty Void
+886,2024-12-28,3418,Paid Repaired
+887,2023-09-17,4834,Paid Repaired
+888,2025-06-13,8841,Paid Repaired
+889,2025-05-14,1304,Paid Repaired
+890,2025-02-27,5769,Paid Repaired
+891,2024-08-26,4866,Paid Repaired
+892,2024-04-14,7352,Warranty Void
+893,2025-07-23,1512,Paid Repaired
+894,2023-11-12,78,Paid Repaired
+895,2025-06-27,8290,Warranty Void
+896,2024-02-25,2872,Paid Repaired
+897,2025-02-02,9629,Paid Repaired
+898,2024-03-26,4154,Paid Repaired
+899,2024-09-15,6707,Warranty Void
+900,2024-08-10,4334,Paid Repaired
+901,2024-05-25,8849,Warranty Void
+902,2025-02-23,7088,Paid Repaired
+903,2024-03-19,3807,Paid Repaired
+904,2024-01-07,6593,Paid Repaired
+905,2023-09-09,5452,Paid Repaired
+906,2025-06-10,5717,Paid Repaired
+907,2024-02-11,4927,Warranty Void
+908,2024-10-03,9161,Warranty Void
+909,2025-03-14,9735,Paid Repaired
+910,2024-04-25,9894,Warranty Void
+911,2024-09-29,8591,Warranty Void
+912,2024-04-01,533,Paid Repaired
+913,2025-05-02,8366,Warranty Void
+914,2023-11-15,1347,Pending
+915,2024-02-17,5719,Warranty Void
+916,2023-11-30,5134,Paid Repaired
+917,2023-11-19,6753,Paid Repaired
+918,2024-01-11,4376,Warranty Void
+919,2023-10-11,3566,Warranty Void
+920,2025-05-13,2792,Paid Repaired
+921,2023-08-20,878,Warranty Void
+922,2024-09-23,2597,Paid Repaired
+923,2024-03-29,4358,Warranty Void
+924,2025-05-01,1883,Paid Repaired
+925,2024-12-08,5906,Paid Repaired
+926,2025-10-05,3956,
+927,2024-09-04,5006,Pending
+928,2024-08-30,9942,Paid Repaired
+929,2023-05-01,3059,Paid Repaired
+930,2023-12-26,2791,Paid Repaired
+931,2024-12-14,8906,Warranty Void
+932,2024-05-14,7235,Paid Repaired
+933,2025-05-18,4004,Paid Repaired
+934,2025-02-01,5014,Paid Repaired
+935,2024-03-14,3009,Warranty Void
+936,2024-08-24,2739,Paid Repaired
+937,2025-08-20,1492,Paid Repaired
+938,2024-01-10,5135,Pending
+939,2025-04-18,4533,Paid Repaired
+940,2024-02-05,8315,Paid Repaired
+941,2023-09-11,1107,Paid Repaired
+942,2025-04-26,1212,Paid Repaired
+943,2024-05-11,6318,Paid Repaired
+944,2024-10-07,7901,Paid Repaired
+945,2025-04-12,9148,Paid Repaired
+946,2024-04-27,4412,Pending
+947,2024-08-30,7343,Warranty Void
+948,2024-08-24,4031,Paid Repaired
+949,2024-06-14,5642,Warranty Void
+950,2025-03-21,2345,Paid Repaired
+951,2024-09-26,259,Warranty Void
+952,2024-04-26,8751,Paid Repaired
+953,2024-06-30,6453,Warranty Void
+954,2024-04-20,2725,Warranty Void
+955,2023-09-30,8038,Paid Repaired
+956,2024-09-17,841,Paid Repaired
+957,2023-11-14,3147,Paid Repaired
+958,2023-11-24,8442,Paid Repaired
+959,2024-11-12,7143,Paid Repaired
+960,2025-02-13,267,Paid Repaired
+961,2025-03-04,5927,Paid Repaired
+962,2024-01-01,1585,Paid Repaired
+963,2024-05-11,6292,Paid Repaired
+964,2024-01-03,2948,Paid Repaired
+965,2025-03-14,6610,Paid Repaired
+966,2024-12-18,1861,Pending
+967,2025-01-30,4747,Paid Repaired
+968,2024-12-17,7498,Paid Repaired
+969,2023-08-03,7782,Warranty Void
+970,2023-11-17,7295,Paid Repaired
+971,2024-07-02,5613,Warranty Void
+972,2024-03-25,7978,Paid Repaired
+973,2024-01-15,2864,Paid Repaired
+974,2023-09-02,8438,Paid Repaired
+975,2023-08-01,1174,Paid Repaired
+976,2024-10-15,5888,Paid Repaired
+977,2024-09-19,2562,Paid Repaired
+978,2023-10-20,6779,Paid Repaired
+979,2025-01-28,2877,Paid Repaired
+980,2024-05-16,3424,Paid Repaired
+981,2024-07-06,5929,Paid Repaired
+982,2025-07-11,3525,Pending
+983,2023-12-11,9448,Paid Repaired
+984,2024-05-09,989,Pending
+985,2024-08-14,6469,Paid Repaired
+986,2023-06-24,3569,Paid Repaired
+987,2024-09-01,4241,Paid Repaired
+988,2025-11-10,3867,Pending
+989,2025-01-22,9711,Paid Repaired
+990,2024-01-26,3310,Paid Repaired
+991,2023-12-01,6567,Paid Repaired
+992,2025-04-03,4811,Paid Repaired
+993,2023-04-25,3061,Paid Repaired
+994,2023-12-19,4592,Pending
+995,2024-09-26,2286,Paid Repaired
+996,2024-11-17,6117,Warranty Void
+997,2024-04-21,1665,Pending
+998,2024-11-13,6960,Warranty Void
+999,2023-06-20,5585,Paid Repaired
+1000,2025-05-27,5767,Paid Repaired
+1001,2025-04-17,4952,Paid Repaired
+1002,2024-06-19,6180,Paid Repaired
+1003,2025-02-27,491,Paid Repaired
+1004,2024-03-24,3212,Warranty Void
+1005,2024-01-17,7335,Paid Repaired
+1006,2024-09-01,4496,Paid Repaired
+1007,2024-07-16,236,Pending
+1008,2023-12-31,8599,Paid Repaired
+1009,2025-06-12,7430,Warranty Void
+1010,2025-05-16,5902,Pending
+1011,2024-03-01,3913,Paid Repaired
+1012,2025-02-07,7420,Paid Repaired
+1013,2023-11-11,3399,
+1014,2024-12-30,7100,Warranty Void
+1015,2023-09-12,5850,Warranty Void
+1016,2025-03-15,6328,Paid Repaired
+1017,2025-01-10,809,Warranty Void
+1018,2025-03-18,6469,Warranty Void
+1019,2023-06-12,2471,
+1020,2025-04-20,2603,Paid Repaired
+1021,2024-11-29,8469,Paid Repaired
+1022,2025-09-15,7429,Paid Repaired
+1023,2025-04-28,2185,Paid Repaired
+1024,2024-03-28,9161,Paid Repaired
+1025,2024-02-01,1100,Warranty Void
+1026,2025-04-28,831,Warranty Void
+1027,2024-10-14,8455,Paid Repaired
+1028,2023-05-03,482,Warranty Void
+1029,2023-12-06,6599,Paid Repaired
+1030,2023-10-17,6248,Paid Repaired
+1031,2024-03-27,182,Paid Repaired
+1032,2023-04-13,1968,Pending
+1033,2025-01-01,6658,Paid Repaired
+1034,2024-03-20,1340,Pending
+1035,2025-01-29,1571,Paid Repaired
+1036,2025-02-23,4004,Pending
+1037,2024-01-26,4812,Paid Repaired
+1038,2024-03-17,3552,Paid Repaired
+1039,2025-03-03,6942,Paid Repaired
+1040,2023-08-03,8182,Paid Repaired
+1041,2025-02-23,6427,Paid Repaired
+1042,2025-01-13,8777,
+1043,2024-10-22,1981,Warranty Void
+1044,2025-04-28,9783,Paid Repaired
+1045,2025-01-25,4828,Paid Repaired
+1046,2023-12-27,4139,Warranty Void
+1047,2025-03-23,1458,Pending
+1048,2024-03-21,2527,Paid Repaired
+1049,2024-09-28,3026,Paid Repaired
+1050,2025-08-24,5551,Paid Repaired
+1051,2023-10-14,3342,Paid Repaired
+1052,2024-08-23,2055,Warranty Void
+1053,2025-05-06,6497,Paid Repaired
+1054,2024-04-26,4605,Paid Repaired
+1055,2025-01-17,171,Warranty Void
+1056,2024-08-19,8279,Pending
+1057,2025-10-02,9719,Paid Repaired
+1058,2024-03-13,8480,Paid Repaired
+1059,2024-10-14,6097,Paid Repaired
+1060,2024-08-14,7955,Warranty Void
+1061,2023-10-15,6621,Pending
+1062,2024-03-30,5107,Paid Repaired
+1063,2024-03-20,1041,Paid Repaired
+1064,2024-10-25,2518,Paid Repaired
+1065,2025-08-31,3511,Paid Repaired
+1066,2025-02-23,7593,Paid Repaired
+1067,2023-09-15,8336,Warranty Void
+1068,2025-07-18,3608,Paid Repaired
+1069,2024-07-02,4157,Paid Repaired
+1070,2023-11-08,3279,Paid Repaired
+1071,2023-10-15,1898,Warranty Void
+1072,2024-06-13,4538,
+1073,2025-04-20,2127,Paid Repaired
+1074,2025-02-09,2610,Paid Repaired
+1075,2024-10-16,8595,
+1076,2025-04-11,3161,Paid Repaired
+1077,2023-05-05,2484,Paid Repaired
+1078,2024-11-28,8515,Pending
+1079,2024-06-09,8032,Paid Repaired
+1080,2024-01-21,5983,Warranty Void
+1081,2024-04-01,2660,Paid Repaired
+1082,2025-01-03,5932,Warranty Void
+1083,2025-04-14,9582,Paid Repaired
+1084,2025-05-08,2238,Paid Repaired
+1085,2025-06-02,8841,Paid Repaired
+1086,2023-11-13,1809,Paid Repaired
+1087,2023-11-28,8661,Paid Repaired
+1088,2024-04-04,8611,Paid Repaired
+1089,2025-04-11,833,Paid Repaired
+1090,2024-06-09,5409,Paid Repaired
+1091,2023-10-15,2313,Paid Repaired
+1092,2025-01-02,1973,Pending
+1093,2023-06-07,579,Paid Repaired
+1094,2023-11-05,1735,Paid Repaired
+1095,2023-10-19,4528,Paid Repaired
+1096,2024-07-15,71,Warranty Void
+1097,2023-10-30,7925,Paid Repaired
+1098,2024-12-18,3040,Paid Repaired
+1099,2023-10-14,6499,Pending
+1100,2024-10-23,4967,Warranty Void
+1101,2025-02-05,8180,Paid Repaired
+1102,2025-03-12,1061,Warranty Void
+1103,2024-11-15,1689,Paid Repaired
+1104,2023-07-16,813,Paid Repaired
+1105,2023-06-29,9175,Paid Repaired
+1106,2025-04-03,649,Warranty Void
+1107,2024-12-13,2372,Paid Repaired
+1108,2024-08-17,5500,Pending
+1109,2024-07-14,3949,Warranty Void
+1110,2025-02-02,4884,Paid Repaired
+1111,2023-04-09,8971,Paid Repaired
+1112,2025-03-24,5471,Warranty Void
+1113,2024-12-05,5693,Paid Repaired
+1114,2024-08-11,6856,Paid Repaired
+1115,2023-11-06,2213,Pending
+1116,2025-05-04,8675,Paid Repaired
+1117,2024-05-21,301,Warranty Void
+1118,2023-10-15,1587,Pending
+1119,2024-04-10,205,Warranty Void
+1120,2024-09-05,9199,Paid Repaired
+1121,2025-07-12,805,Paid Repaired
+1122,2024-02-26,2842,Warranty Void
+1123,2025-08-30,8985,Pending
+1124,2024-02-14,1860,Pending
+1125,2024-08-12,9980,Paid Repaired
+1126,2023-10-11,4417,Warranty Void
+1127,2025-09-10,2439,Warranty Void
+1128,2023-08-07,4655,Paid Repaired
+1129,2024-06-30,3225,Warranty Void
+1130,2024-02-22,6543,Paid Repaired
+1131,2023-07-30,7784,Paid Repaired
+1132,2023-11-15,9601,Warranty Void
+1133,2024-05-24,508,Paid Repaired
+1134,2025-07-10,7094,Paid Repaired
+1135,2024-01-29,2899,Paid Repaired
+1136,2024-07-21,9131,Paid Repaired
+1137,2024-05-15,1547,Warranty Void
+1138,2025-04-18,9854,Warranty Void
+1139,2025-10-25,4136,Warranty Void
+1140,2023-10-10,6026,Paid Repaired
+1141,2025-05-23,5193,Pending
+1142,2023-10-18,2936,Paid Repaired
+1143,2025-03-04,7789,Warranty Void
+1144,2025-02-19,5925,Paid Repaired
+1145,2023-08-21,8566,Paid Repaired
+1146,2025-07-18,1912,Pending
+1147,2024-01-25,7951,Pending
+1148,2024-09-23,6091,Paid Repaired
+1149,2025-03-29,4259,Warranty Void
+1150,2024-05-22,2052,Pending
+1151,2025-08-01,2487,Paid Repaired
+1152,2023-11-12,2267,Paid Repaired
+1153,2025-07-04,8961,Paid Repaired
+1154,2024-12-18,1101,Paid Repaired
+1155,2023-06-22,9721,Paid Repaired
+1156,2023-12-31,2396,Pending
+1157,2024-03-29,4889,Paid Repaired
+1158,2025-01-05,593,Warranty Void
+1159,2025-05-13,8152,Paid Repaired
+1160,2024-03-02,5875,Paid Repaired
+1161,2025-05-27,2948,Paid Repaired
+1162,2025-08-27,505,Paid Repaired
+1163,2024-10-03,4696,Paid Repaired
+1164,2024-04-23,604,Pending
+1165,2025-02-03,1832,Pending
+1166,2023-08-09,8104,Paid Repaired
+1167,2024-04-27,1290,Pending
+1168,2025-03-06,9354,Paid Repaired
+1169,2025-12-09,3256,Paid Repaired
+1170,2025-07-26,1928,Paid Repaired
+1171,2023-10-31,6970,Paid Repaired
+1172,2023-12-13,1177,Paid Repaired
+1173,2024-09-01,924,Warranty Void
+1174,2025-02-01,6001,Warranty Void
+1175,2025-06-12,3857,Paid Repaired
+1176,2024-02-09,9853,Warranty Void
+1177,2025-07-21,497,Paid Repaired
+1178,2023-11-20,4561,Warranty Void
+1179,2023-07-08,5643,Warranty Void
+1180,2024-03-26,918,Paid Repaired
+1181,2024-04-07,5042,Warranty Void
+1182,2024-12-31,1471,Paid Repaired
+1183,2024-11-15,8120,Pending
+1184,2025-02-16,3692,Paid Repaired
+1185,2024-07-20,5594,Paid Repaired
+1186,2025-02-10,9722,Paid Repaired
+1187,2024-08-04,3871,Paid Repaired
+1188,2023-05-28,5876,Warranty Void
+1189,2024-01-23,6844,Paid Repaired
+1190,2024-01-07,584,Paid Repaired
+1191,2025-07-14,8170,Paid Repaired
+1192,2024-02-20,8276,Paid Repaired
+1193,2025-06-21,7907,Warranty Void
+1194,2024-03-23,323,Paid Repaired
+1195,2024-05-03,7397,Warranty Void
+1196,2024-03-14,186,Paid Repaired
+1197,2023-10-10,2709,Paid Repaired
+1198,2025-02-20,4629,Paid Repaired
+1199,2025-01-21,5794,Paid Repaired
+1200,2023-08-18,2417,Paid Repaired
+1201,2025-04-13,8015,Paid Repaired
+1202,2024-10-08,3819,Paid Repaired
+1203,2023-07-12,6586,Paid Repaired
+1204,2024-12-03,3901,Paid Repaired
+1205,2024-03-13,6585,Paid Repaired
+1206,2023-07-23,5878,Paid Repaired
+1207,2023-07-15,9472,Warranty Void
+1208,2023-06-16,3988,Paid Repaired
+1209,2025-02-20,8426,Paid Repaired
+1210,2024-10-31,5813,Paid Repaired
+1211,2023-07-09,8073,Paid Repaired
+1212,2025-02-19,5591,Warranty Void
+1213,2024-12-05,6051,Warranty Void
+1214,2023-11-03,4232,
+1215,2023-06-12,7541,Paid Repaired
+1216,2023-06-01,6533,Pending
+1217,2024-02-02,6383,Warranty Void
+1218,2025-05-05,9812,Paid Repaired
+1219,2024-08-20,4359,Paid Repaired
+1220,2023-09-22,6227,Warranty Void
+1221,2023-12-25,5760,Paid Repaired
+1222,2024-10-10,9842,Paid Repaired
+1223,2024-06-11,521,Paid Repaired
+1224,2023-10-30,9436,Paid Repaired
+1225,2023-08-02,9134,Paid Repaired
+1226,2024-10-06,5756,Paid Repaired
+1227,2023-12-22,6964,Warranty Void
+1228,2025-10-09,1458,Paid Repaired
+1229,2024-07-27,1853,Paid Repaired
+1230,2024-12-20,1849,Paid Repaired
+1231,2025-02-27,7992,Paid Repaired
+1232,2024-12-08,8945,Paid Repaired
+1233,2023-11-27,5811,Paid Repaired
+1234,2024-08-08,4823,Pending
+1235,2023-04-28,8413,Warranty Void
+1236,2025-03-20,9194,Warranty Void
+1237,2024-10-05,8690,Paid Repaired
+1238,2025-04-09,8538,Pending
+1239,2024-02-27,8745,Paid Repaired
+1240,2025-04-24,7797,Paid Repaired
+1241,2023-07-21,4225,Pending
+1242,2024-08-01,5477,Paid Repaired
+1243,2025-05-24,5760,Pending
+1244,2024-11-02,2455,Paid Repaired
+1245,2024-05-27,9866,Pending
+1246,2024-03-05,1341,Paid Repaired
+1247,2024-05-31,3100,Paid Repaired
+1248,2024-09-19,2560,Paid Repaired
+1249,2025-01-15,6472,Paid Repaired
+1250,2024-11-16,466,Warranty Void
+1251,2024-09-19,6531,Paid Repaired
+1252,2024-02-08,8434,Warranty Void
+1253,2023-12-13,6501,Warranty Void
+1254,2024-12-26,7093,Paid Repaired
+1255,2024-07-04,2431,Pending
+1256,2024-02-17,4439,Paid Repaired
+1257,2025-03-11,9953,Paid Repaired
+1258,2025-07-27,7851,Paid Repaired
+1259,2025-05-06,1580,Pending
+1260,2024-08-02,4796,Pending
+1261,2025-03-02,4455,Paid Repaired
+1262,2025-04-27,834,Warranty Void
+1263,2025-08-16,5714,Pending
+1264,2024-09-03,3457,Pending
+1265,2024-10-18,8659,Pending
+1266,2024-02-24,6851,Paid Repaired
+1267,2023-06-15,779,Paid Repaired
+1268,2024-10-05,2638,Paid Repaired
+1269,2024-01-22,6430,Warranty Void
+1270,2024-09-03,4020,Paid Repaired
+1271,2024-01-06,6364,Paid Repaired
+1272,2024-03-23,497,Pending
+1273,2024-11-12,867,Paid Repaired
+1274,2025-05-10,2807,Warranty Void
+1275,2023-11-02,2252,Warranty Void
+1276,2024-10-09,1636,Warranty Void
+1277,2024-07-24,6537,Paid Repaired
+1278,2025-05-22,9281,Paid Repaired
+1279,2024-12-18,5637,Paid Repaired
+1280,2024-11-11,8691,Paid Repaired
+1281,2024-10-13,9365,Paid Repaired
+1282,2023-10-12,5026,Paid Repaired
+1283,2023-07-06,3720,Warranty Void
+1284,2025-04-15,9128,Pending
+1285,2024-03-05,7415,Pending
+1286,2023-07-08,2790,Paid Repaired
+1287,2024-05-12,2616,Paid Repaired
+1288,2025-09-10,2942,Paid Repaired
+1289,2025-02-03,4432,Paid Repaired
+1290,2025-04-28,1528,Paid Repaired
+1291,2023-06-14,8956,Warranty Void
+1292,2024-02-02,4659,Paid Repaired
+1293,2024-11-13,6296,Paid Repaired
+1294,2025-03-13,5770,Paid Repaired
+1295,2023-07-29,3263,Paid Repaired
+1296,2024-07-21,9118,Paid Repaired
+1297,2025-02-01,8941,Paid Repaired
+1298,2024-01-15,5179,Pending
+1299,2025-08-04,4151,Paid Repaired
+1300,2025-03-16,4631,Paid Repaired
+1301,2023-07-26,160,Warranty Void
+1302,2023-06-17,1422,Paid Repaired
+1303,2024-02-26,7912,Paid Repaired
+1304,2024-01-05,2692,Paid Repaired
+1305,2025-04-06,2394,Paid Repaired
+1306,2025-08-17,1393,Paid Repaired
+1307,2024-08-05,2740,Pending
+1308,2024-09-04,3462,Warranty Void
+1309,2024-03-19,1650,Paid Repaired
+1310,2023-12-30,6598,Warranty Void
+1311,2024-07-18,432,Warranty Void
+1312,2023-09-15,8506,Warranty Void
+1313,2024-08-23,5603,Paid Repaired
+1314,2023-11-12,6466,Paid Repaired
+1315,2023-09-20,5447,Paid Repaired
+1316,2025-06-15,1163,Paid Repaired
+1317,2024-10-21,1290,Paid Repaired
+1318,2023-08-21,6784,Pending
+1319,2025-01-15,3967,Paid Repaired
+1320,2023-12-27,5782,Paid Repaired
+1321,2023-09-20,4266,Paid Repaired
+1322,2024-12-01,2800,Paid Repaired
+1323,2025-03-27,3179,
+1324,2024-03-08,2178,Paid Repaired
+1325,2025-03-17,4130,Paid Repaired
+1326,2024-02-03,6135,Pending
+1327,2024-10-02,1900,Paid Repaired
+1328,2024-04-12,179,Paid Repaired
+1329,2024-04-04,2935,Pending
+1330,2025-04-29,2440,Warranty Void
+1331,2024-05-31,7934,Paid Repaired
+1332,2023-08-13,6997,Warranty Void
+1333,2024-08-08,3753,Paid Repaired
+1334,2023-10-19,8665,Paid Repaired
+1335,2025-08-07,894,Warranty Void
+1336,2024-06-15,8343,Paid Repaired
+1337,2024-11-10,5867,Paid Repaired
+1338,2024-10-01,44,Paid Repaired
+1339,2024-11-21,6274,Warranty Void
+1340,2024-06-19,7804,Paid Repaired
+1341,2024-07-31,9720,Warranty Void
+1342,2024-07-15,9229,Pending
+1343,2024-02-11,6705,Paid Repaired
+1344,2025-01-11,2547,Paid Repaired
+1345,2024-06-13,6873,Paid Repaired
+1346,2024-01-07,4983,Paid Repaired
+1347,2024-02-25,4466,Paid Repaired
+1348,2025-10-06,5259,Paid Repaired
+1349,2025-07-16,8216,Warranty Void
+1350,2025-06-25,3063,Warranty Void
+1351,2024-02-17,5030,Pending
+1352,2025-03-04,4903,Paid Repaired
+1353,2023-12-27,3535,Pending
+1354,2023-12-31,5269,Paid Repaired
+1355,2023-12-15,5448,Paid Repaired
+1356,2023-08-01,5571,Paid Repaired
+1357,2024-04-27,4347,Warranty Void
+1358,2024-04-16,1091,Paid Repaired
+1359,2023-11-01,563,Pending
+1360,2024-05-20,8040,Paid Repaired
+1361,2023-05-20,1264,Warranty Void
+1362,2024-01-28,4679,Paid Repaired
+1363,2024-03-26,1952,Warranty Void
+1364,2025-03-04,1691,Paid Repaired
+1365,2025-07-21,1267,Warranty Void
+1366,2024-12-21,5696,Paid Repaired
+1367,2024-12-15,7175,Warranty Void
+1368,2024-06-08,7992,Paid Repaired
+1369,2025-11-20,5797,Paid Repaired
+1370,2024-09-13,858,Paid Repaired
+1371,2024-04-11,6901,Paid Repaired
+1372,2023-06-18,3805,Paid Repaired
+1373,2024-08-17,6687,Warranty Void
+1374,2025-02-02,179,Warranty Void
+1375,2025-10-02,7429,Paid Repaired
+1376,2023-03-27,7194,Paid Repaired
+1377,2023-06-27,4722,Paid Repaired
+1378,2023-11-09,3489,Paid Repaired
+1379,2023-09-12,7239,Paid Repaired
+1380,2023-10-02,7290,Paid Repaired
+1381,2024-02-29,5153,Paid Repaired
+1382,2025-02-24,7742,Warranty Void
+1383,2024-02-28,5374,Warranty Void
+1384,2024-05-21,239,Paid Repaired
+1385,2024-03-06,7347,Paid Repaired
+1386,2024-10-26,9816,Paid Repaired
+1387,2024-02-26,1911,Paid Repaired
+1388,2024-11-26,5692,Warranty Void
+1389,2023-08-12,1351,Paid Repaired
+1390,2024-08-19,2642,Warranty Void
+1391,2025-06-02,7321,Warranty Void
+1392,2025-05-01,7709,Pending
+1393,2025-03-14,4011,Warranty Void
+1394,2024-01-24,9609,Pending
+1395,2023-12-25,4115,Paid Repaired
+1396,2023-06-17,5053,Pending
+1397,2025-07-02,7842,Paid Repaired
+1398,2024-09-15,6201,Warranty Void
+1399,2024-01-12,8415,Warranty Void
+1400,2024-12-29,910,Paid Repaired
+1401,2023-12-07,8458,Paid Repaired
+1402,2023-09-11,5513,Warranty Void
+1403,2025-04-03,9856,Pending
+1404,2024-01-07,5864,Pending
+1405,2025-01-26,2860,Paid Repaired
+1406,2023-08-11,158,Warranty Void
+1407,2024-04-03,7409,Paid Repaired
+1408,2024-02-03,8863,Warranty Void
+1409,2023-12-15,4628,Pending
+1410,2024-06-26,6737,Paid Repaired
+1411,2025-05-18,2418,Paid Repaired
+1412,2024-06-06,7878,Paid Repaired
+1413,2024-05-26,8336,Paid Repaired
+1414,2023-04-23,9067,Paid Repaired
+1415,2025-06-23,8807,Pending
+1416,2024-10-19,6107,Warranty Void
+1417,2024-05-06,715,Paid Repaired
+1418,2025-05-02,9556,Paid Repaired
+1419,2024-08-12,7092,Paid Repaired
+1420,2024-12-10,3197,Paid Repaired
+1421,2024-08-13,2544,Warranty Void
+1422,2025-09-01,3146,Warranty Void
+1423,2024-07-15,5175,Paid Repaired
+1424,2023-10-31,9272,Paid Repaired
+1425,2024-03-26,6489,Paid Repaired
+1426,2024-04-12,7730,Pending
+1427,2024-06-29,8605,Warranty Void
+1428,2023-06-29,318,Paid Repaired
+1429,2025-05-10,5442,Paid Repaired
+1430,2023-11-26,4017,Paid Repaired
+1431,2023-03-31,6885,Warranty Void
+1432,2023-08-03,8822,Warranty Void
+1433,2024-06-09,3475,Warranty Void
+1434,2024-11-04,6206,Paid Repaired
+1435,2024-02-11,3683,Warranty Void
+1436,2023-05-22,692,Paid Repaired
+1437,2024-01-15,8574,Paid Repaired
+1438,2024-08-15,8118,Paid Repaired
+1439,2025-04-20,7695,Paid Repaired
+1440,2024-07-20,3600,Warranty Void
+1441,2024-01-17,4945,Paid Repaired
+1442,2023-10-06,7682,Paid Repaired
+1443,2023-08-07,300,Paid Repaired
+1444,2024-04-19,24,Paid Repaired
+1445,2024-12-29,765,Paid Repaired
+1446,2024-11-20,5786,Pending
+1447,2024-07-26,5991,Paid Repaired
+1448,2025-02-26,7961,Paid Repaired
+1449,2024-10-28,313,Warranty Void
+1450,2023-08-07,511,Warranty Void
+1451,2025-09-30,1195,Paid Repaired
+1452,2024-01-22,840,Warranty Void
+1453,2025-02-02,8923,Pending
+1454,2024-06-07,5346,Warranty Void
+1455,2024-01-26,9713,Pending
+1456,2025-02-12,3178,Pending
+1457,2024-06-06,7575,Pending
+1458,2024-01-07,9295,Paid Repaired
+1459,2024-12-17,52,Warranty Void
+1460,2023-06-09,2721,Warranty Void
+1461,2024-11-17,5073,Paid Repaired
+1462,2025-02-15,5415,Warranty Void
+1463,2025-06-21,40,Warranty Void
+1464,2024-06-24,4381,Paid Repaired
+1465,2025-09-24,2905,Paid Repaired
+1466,2023-09-24,5980,Paid Repaired
+1467,2023-12-13,9054,Paid Repaired
+1468,2025-10-01,2673,Paid Repaired
+1469,2025-02-12,4705,Paid Repaired
+1470,2024-06-21,2762,Paid Repaired
+1471,2025-02-21,239,Warranty Void
+1472,2024-02-24,6619,Paid Repaired
+1473,2024-10-04,8612,Paid Repaired
+1474,2023-12-16,7983,Warranty Void
+1475,2024-06-09,5052,Paid Repaired
+1476,2024-12-03,6944,Paid Repaired
+1477,2025-03-11,168,Paid Repaired
+1478,2025-02-13,7437,Pending
+1479,2024-08-09,462,Paid Repaired
+1480,2024-07-28,3794,Paid Repaired
+1481,2025-04-16,9169,Paid Repaired
+1482,2024-10-27,3834,Paid Repaired
+1483,2025-03-14,1386,Pending
+1484,2023-10-10,8934,Pending
+1485,2024-12-04,1986,Paid Repaired
+1486,2025-02-03,8876,Paid Repaired
+1487,2024-06-24,5958,Paid Repaired
+1488,2024-09-04,7107,Paid Repaired
+1489,2024-03-13,3213,Paid Repaired
+1490,2024-02-03,246,Paid Repaired
+1491,2024-03-23,150,Paid Repaired
+1492,2024-08-16,4239,Pending
+1493,2025-08-11,2454,Paid Repaired
+1494,2024-07-16,8457,Paid Repaired
+1495,2023-07-03,1733,Paid Repaired
+1496,2024-01-24,5363,Warranty Void
+1497,2024-04-18,277,Pending
+1498,2024-11-20,4651,Paid Repaired
+1499,2023-09-04,3703,Paid Repaired
+1500,2025-03-26,8759,Paid Repaired
+1501,2025-03-27,4629,Warranty Void
+1502,2024-11-22,5312,Paid Repaired
+1503,2025-02-19,6667,Pending
+1504,2024-03-30,2786,Pending
+1505,2024-08-08,6776,Warranty Void
+1506,2025-07-01,6117,Paid Repaired
+1507,2025-05-19,8616,Paid Repaired
+1508,2024-03-26,8604,Paid Repaired
+1509,2025-01-28,2421,Paid Repaired
+1510,2025-03-08,9937,Paid Repaired
+1511,2024-05-26,293,Paid Repaired
+1512,2025-10-28,4768,Paid Repaired
+1513,2024-08-16,8594,Warranty Void
+1514,2024-05-27,4711,Paid Repaired
+1515,2025-04-16,4215,Warranty Void
+1516,2025-03-05,9206,Paid Repaired
+1517,2025-05-04,6952,Paid Repaired
+1518,2024-12-10,2834,Paid Repaired
+1519,2023-06-25,8833,Paid Repaired
+1520,2024-03-30,7446,Paid Repaired
+1521,2023-12-30,3865,Paid Repaired
+1522,2025-10-17,451,Warranty Void
+1523,2024-05-10,2320,Paid Repaired
+1524,2025-05-26,8918,Paid Repaired
+1525,2025-10-02,6775,Paid Repaired
+1526,2024-07-06,1085,Paid Repaired
+1527,2025-03-19,3481,Paid Repaired
+1528,2023-10-10,5500,
+1529,2024-10-23,9171,Paid Repaired
+1530,2025-04-22,6094,Paid Repaired
+1531,2024-02-02,8941,Warranty Void
+1532,2024-12-03,2079,Paid Repaired
+1533,2025-04-06,9266,Warranty Void
+1534,2024-01-15,5091,Paid Repaired
+1535,2025-01-10,3870,Paid Repaired
+1536,2023-11-03,8629,Warranty Void
+1537,2025-01-27,9368,Pending
+1538,2024-08-16,809,Paid Repaired
+1539,2023-10-23,1464,
+1540,2025-05-06,9170,Warranty Void
+1541,2023-12-16,5748,Paid Repaired
+1542,2025-07-18,8440,Paid Repaired
+1543,2024-11-13,4211,Pending
+1544,2025-06-19,6649,Paid Repaired
+1545,2024-03-15,3966,Pending
+1546,2025-05-10,2783,Paid Repaired
+1547,2024-07-27,7495,Paid Repaired
+1548,2024-12-12,1721,Pending
+1549,2025-10-05,4150,Warranty Void
+1550,2025-05-29,3570,Paid Repaired
+1551,2024-12-19,8995,Paid Repaired
+1552,2023-08-03,9658,Paid Repaired
+1553,2024-01-23,7889,Paid Repaired
+1554,2024-05-01,9168,Paid Repaired
+1555,2023-11-23,2471,Paid Repaired
+1556,2023-12-01,2708,
+1557,2024-09-14,619,Paid Repaired
+1558,2024-09-26,2708,Paid Repaired
+1559,2023-10-05,1733,Paid Repaired
+1560,2025-02-09,9293,Paid Repaired
+1561,2025-07-03,841,Paid Repaired
+1562,2023-11-15,3999,Warranty Void
+1563,2024-08-03,5486,Paid Repaired
+1564,2024-08-26,5856,Paid Repaired
+1565,2025-01-18,8176,Pending
+1566,2023-12-12,2767,Warranty Void
+1567,2023-12-13,4209,Pending
+1568,2025-09-06,2796,Paid Repaired
+1569,2024-06-22,3993,Warranty Void
+1570,2023-06-20,2894,Paid Repaired
+1571,2024-11-13,9132,Paid Repaired
+1572,2025-04-03,1916,Paid Repaired
+1573,2025-03-22,3576,Paid Repaired
+1574,2023-12-15,3952,Paid Repaired
+1575,2023-10-27,6247,Paid Repaired
+1576,2024-03-10,9527,Pending
+1577,2024-02-23,8330,Pending
+1578,2024-07-28,6810,Pending
+1579,2025-03-23,526,Warranty Void
+1580,2024-06-24,9597,Paid Repaired
+1581,2025-03-05,515,Paid Repaired
+1582,2024-07-19,7231,Paid Repaired
+1583,2025-05-04,615,Pending
+1584,2025-03-19,9567,Warranty Void
+1585,2023-09-09,4715,Warranty Void
+1586,2024-01-12,4049,Pending
+1587,2023-12-30,3988,Paid Repaired
+1588,2024-02-06,5882,Paid Repaired
+1589,2024-06-23,8644,Paid Repaired
+1590,2024-12-03,9520,Paid Repaired
+1591,2024-04-28,9014,Paid Repaired
+1592,2024-03-16,9387,Paid Repaired
+1593,2024-02-18,6055,Paid Repaired
+1594,2023-08-18,7947,Paid Repaired
+1595,2024-07-01,726,Paid Repaired
+1596,2024-06-11,7139,Pending
+1597,2023-12-18,1932,Warranty Void
+1598,2024-08-01,420,Paid Repaired
+1599,2024-01-28,4729,Warranty Void
+1600,2024-10-25,6795,Warranty Void
+1601,2024-09-09,9170,Paid Repaired
+1602,2023-12-21,8544,Paid Repaired
+1603,2023-12-10,7621,Paid Repaired
+1604,2024-01-07,3420,
+1605,2024-04-22,2667,Paid Repaired
+1606,2024-04-30,2801,Pending
+1607,2024-01-05,4234,Paid Repaired
+1608,2024-09-22,7581,Pending
+1609,2023-12-10,7905,Paid Repaired
+1610,2025-07-30,9851,Paid Repaired
+1611,2025-08-13,2120,Paid Repaired
+1612,2024-03-26,2225,Paid Repaired
+1613,2024-09-27,5296,Warranty Void
+1614,2024-04-17,8522,Paid Repaired
+1615,2024-08-06,8994,Paid Repaired
+1616,2023-11-27,8022,Paid Repaired
+1617,2024-02-05,2609,Pending
+1618,2024-10-02,551,Paid Repaired
+1619,2025-06-06,2967,Paid Repaired
+1620,2024-04-29,7002,Pending
+1621,2025-04-30,6193,Paid Repaired
+1622,2024-02-04,135,Warranty Void
+1623,2024-08-08,5747,Paid Repaired
+1624,2024-07-03,1063,Paid Repaired
+1625,2024-07-23,7610,Paid Repaired
+1626,2024-10-26,5683,Paid Repaired
+1627,2024-10-18,4235,Paid Repaired
+1628,2024-06-16,4228,Paid Repaired
+1629,2023-02-21,3604,Paid Repaired
+1630,2025-07-09,5193,Paid Repaired
+1631,2024-04-15,6734,Paid Repaired
+1632,2023-09-26,4538,Warranty Void
+1633,2024-05-16,2554,Warranty Void
+1634,2023-11-12,870,Warranty Void
+1635,2024-06-22,2672,Paid Repaired
+1636,2023-12-24,9247,Paid Repaired
+1637,2024-10-16,3325,Paid Repaired
+1638,2025-01-05,7921,Warranty Void
+1639,2024-08-29,3624,Warranty Void
+1640,2024-01-29,4026,Pending
+1641,2024-06-03,10000,Pending
+1642,2023-06-28,2688,Warranty Void
+1643,2024-03-09,8771,Paid Repaired
+1644,2023-06-04,4865,Warranty Void
+1645,2023-09-09,224,Paid Repaired
+1646,2024-06-01,1929,Paid Repaired
+1647,2025-07-08,5962,Paid Repaired
+1648,2024-09-20,7635,Paid Repaired
+1649,2025-02-26,6897,Warranty Void
+1650,2023-09-09,7519,Paid Repaired
+1651,2025-01-21,8585,Paid Repaired
+1652,2023-11-26,3966,Pending
+1653,2024-09-21,7922,Warranty Void
+1654,2024-10-16,7107,Paid Repaired
+1655,2024-03-03,6944,Paid Repaired
+1656,2024-09-14,470,Paid Repaired
+1657,2025-10-14,5352,Warranty Void
+1658,2025-04-08,7065,Warranty Void
+1659,2023-04-12,9399,Warranty Void
+1660,2023-10-22,1001,Warranty Void
+1661,2025-09-15,9128,Paid Repaired
+1662,2023-04-25,8277,Paid Repaired
+1663,2023-12-09,1339,Paid Repaired
+1664,2025-08-09,603,Paid Repaired
+1665,2024-03-05,939,Pending
+1666,2024-06-10,7868,Paid Repaired
+1667,2024-11-13,6632,Paid Repaired
+1668,2025-03-25,8308,Paid Repaired
+1669,2024-03-20,5361,Paid Repaired
+1670,2024-07-02,5680,Pending
+1671,2024-11-21,8299,Pending
+1672,2024-01-24,2727,Pending
+1673,2024-03-31,6012,Paid Repaired
+1674,2024-02-11,1241,Paid Repaired
+1675,2024-04-03,5220,Paid Repaired
+1676,2024-01-17,9314,Paid Repaired
+1677,2024-06-05,6725,Paid Repaired
+1678,2025-05-05,2885,Paid Repaired
+1679,2023-10-04,519,Pending
+1680,2025-04-03,2963,Pending
+1681,2024-01-09,3799,Warranty Void
+1682,2025-11-11,2114,
+1683,2024-08-18,7492,Paid Repaired
+1684,2025-06-05,6089,Warranty Void
+1685,2025-03-26,8664,Warranty Void
+1686,2024-02-01,9741,Paid Repaired
+1687,2024-09-05,5823,Paid Repaired
+1688,2023-08-26,1624,Paid Repaired
+1689,2024-05-10,8763,Paid Repaired
+1690,2024-01-02,8749,Pending
+1691,2023-03-19,4759,Warranty Void
+1692,2024-06-23,5139,Paid Repaired
+1693,2024-11-07,4836,Warranty Void
+1694,2025-01-19,7092,Paid Repaired
+1695,2024-06-26,1502,Paid Repaired
+1696,2025-03-13,1464,Paid Repaired
+1697,2025-04-17,6746,
+1698,2024-08-04,2498,Paid Repaired
+1699,2024-01-19,7321,Paid Repaired
+1700,2025-01-10,6832,Paid Repaired
+1701,2023-10-15,3163,Warranty Void
+1702,2024-06-18,631,Paid Repaired
+1703,2023-06-27,1498,Paid Repaired
+1704,2024-03-13,9091,Paid Repaired
+1705,2024-04-01,4800,Paid Repaired
+1706,2023-08-21,6848,Paid Repaired
+1707,2025-01-24,863,Paid Repaired
+1708,2023-12-05,8525,Warranty Void
+1709,2024-02-12,4360,Paid Repaired
+1710,2025-01-24,684,Warranty Void
+1711,2024-02-26,4106,Pending
+1712,2025-08-11,7520,Warranty Void
+1713,2024-08-07,3005,Paid Repaired
+1714,2025-03-30,4665,Paid Repaired
+1715,2025-05-31,1403,Paid Repaired
+1716,2023-08-08,3777,Paid Repaired
+1717,2024-07-30,4463,Warranty Void
+1718,2025-01-14,6294,Pending
+1719,2023-06-30,9240,Paid Repaired
+1720,2023-05-10,7837,Paid Repaired
+1721,2024-06-13,2953,Paid Repaired
+1722,2024-08-28,9694,Pending
+1723,2025-01-27,9087,Warranty Void
+1724,2023-10-25,4459,Paid Repaired
+1725,2024-02-01,9186,Paid Repaired
+1726,2024-12-11,2944,Paid Repaired
+1727,2023-05-09,9825,Pending
+1728,2024-12-09,3939,Paid Repaired
+1729,2024-12-28,3891,Paid Repaired
+1730,2025-05-06,2805,Paid Repaired
+1731,2024-06-17,7084,Pending
+1732,2025-07-01,1126,Paid Repaired
+1733,2024-09-28,1848,Paid Repaired
+1734,2025-03-16,1780,Paid Repaired
+1735,2023-11-11,1737,Paid Repaired
+1736,2024-04-26,3201,Pending
+1737,2024-01-13,3320,Warranty Void
+1738,2024-05-18,7369,Paid Repaired
+1739,2025-05-08,4640,Paid Repaired
+1740,2024-04-10,9765,Paid Repaired
+1741,2024-10-20,2775,Pending
+1742,2024-10-14,5125,Paid Repaired
+1743,2023-04-22,9666,Warranty Void
+1744,2024-10-07,6785,Paid Repaired
+1745,2023-08-28,5152,Paid Repaired
+1746,2024-01-26,1024,Paid Repaired
+1747,2025-01-20,4852,Paid Repaired
+1748,2024-12-03,3337,Warranty Void
+1749,2024-08-23,6708,Warranty Void
+1750,2023-06-09,6133,Warranty Void
+1751,2025-01-25,4432,Paid Repaired
+1752,2024-04-27,7685,Paid Repaired
+1753,2024-05-31,7567,Warranty Void
+1754,2025-02-11,1503,Paid Repaired
+1755,2024-10-11,7346,Paid Repaired
+1756,2024-02-14,9700,Warranty Void
+1757,2024-09-02,7676,Paid Repaired
+1758,2023-09-26,362,Paid Repaired
+1759,2024-07-19,6165,Warranty Void
+1760,2024-03-25,2888,Pending
+1761,2023-08-30,3887,Warranty Void
+1762,2023-08-25,8514,Paid Repaired
+1763,2023-11-17,7661,Paid Repaired
+1764,2024-06-14,9337,Warranty Void
+1765,2025-02-14,6145,Paid Repaired
+1766,2023-11-13,8617,Warranty Void
+1767,2025-01-17,1344,Paid Repaired
+1768,2024-06-01,7912,Pending
+1769,2024-03-10,9149,Paid Repaired
+1770,2025-02-16,4698,Warranty Void
+1771,2024-12-01,621,Pending
+1772,2025-09-04,6847,Paid Repaired
+1773,2024-09-08,2138,Paid Repaired
+1774,2023-07-09,9403,Warranty Void
+1775,2024-10-29,1782,Paid Repaired
+1776,2025-05-26,6558,Paid Repaired
+1777,2024-04-13,4212,Paid Repaired
+1778,2025-03-25,7517,Paid Repaired
+1779,2023-10-16,3263,Warranty Void
+1780,2024-10-10,6692,Paid Repaired
+1781,2024-01-15,9452,Paid Repaired
+1782,2024-01-11,1283,Pending
+1783,2025-06-24,3909,Paid Repaired
+1784,2024-12-17,4481,
+1785,2024-01-02,6765,Paid Repaired
+1786,2025-05-31,1177,Pending
+1787,2024-09-21,784,Paid Repaired
+1788,2023-05-17,8905,Warranty Void
+1789,2023-11-05,9948,Paid Repaired
+1790,2024-10-08,7832,Pending
+1791,2025-01-26,3573,Paid Repaired
+1792,2024-09-01,2881,Paid Repaired
+1793,2024-08-12,9743,Paid Repaired
+1794,2024-12-15,1210,Paid Repaired
+1795,2025-03-17,4252,Paid Repaired
+1796,2023-12-04,4604,Paid Repaired
+1797,2023-11-14,3179,Paid Repaired
+1798,2024-06-30,5209,Paid Repaired
+1799,2024-10-19,549,Paid Repaired
+1800,2024-04-07,7808,Warranty Void
+1801,2025-04-25,5665,Pending
+1802,2024-09-20,2498,Paid Repaired
+1803,2025-05-08,6822,Warranty Void
+1804,2025-09-02,6741,Paid Repaired
+1805,2025-01-26,4224,Paid Repaired
+1806,2025-04-26,228,Warranty Void
+1807,2024-05-20,4981,Warranty Void
+1808,2024-01-06,6397,Warranty Void
+1809,2023-12-30,8739,Paid Repaired
+1810,2024-02-08,7027,Paid Repaired
+1811,2024-12-09,209,Warranty Void
+1812,2024-02-12,420,Paid Repaired
+1813,2025-03-11,6343,Paid Repaired
+1814,2025-08-08,9381,Paid Repaired
+1815,2024-12-11,2375,Pending
+1816,2023-11-07,5504,Paid Repaired
+1817,2025-10-03,4849,Warranty Void
+1818,2024-10-17,350,Pending
+1819,2024-09-08,4041,Warranty Void
+1820,2025-04-28,3430,Paid Repaired
+1821,2024-09-03,2830,Pending
+1822,2024-05-14,8321,Paid Repaired
+1823,2024-05-24,4521,Paid Repaired
+1824,2024-12-04,4569,Paid Repaired
+1825,2023-04-20,6377,Paid Repaired
+1826,2025-04-01,8649,Warranty Void
+1827,2024-12-19,7551,Paid Repaired
+1828,2025-03-07,7981,Paid Repaired
+1829,2024-09-30,4694,Warranty Void
+1830,2024-01-26,3143,Paid Repaired
+1831,2023-10-28,1771,Paid Repaired
+1832,2024-06-28,8224,Paid Repaired
+1833,2023-12-23,1505,
+1834,2023-08-11,6531,Warranty Void
+1835,2023-04-18,8365,Paid Repaired
+1836,2024-04-21,245,Pending
+1837,2024-01-27,7867,Warranty Void
+1838,2023-07-23,7549,Paid Repaired
+1839,2025-06-07,9691,Paid Repaired
+1840,2024-06-23,3385,Paid Repaired
+1841,2025-07-07,32,Warranty Void
+1842,2024-01-20,3431,Paid Repaired
+1843,2024-12-14,3972,Warranty Void
+1844,2024-09-04,5998,Paid Repaired
+1845,2024-03-06,9644,Paid Repaired
+1846,2023-07-29,1587,Paid Repaired
+1847,2024-04-29,7602,Warranty Void
+1848,2024-12-24,7650,Paid Repaired
+1849,2024-01-11,5080,Paid Repaired
+1850,2024-01-21,8280,Paid Repaired
+1851,2024-12-11,7948,Warranty Void
+1852,2024-05-01,3617,Warranty Void
+1853,2025-02-12,1326,Paid Repaired
+1854,2025-04-13,5656,Pending
+1855,2025-01-21,8120,Warranty Void
+1856,2025-06-13,7733,Pending
+1857,2023-07-23,5021,Paid Repaired
+1858,2023-12-01,3346,Warranty Void
+1859,2024-10-09,5019,Warranty Void
+1860,2023-11-04,1692,Warranty Void
+1861,2024-08-17,3676,Warranty Void
+1862,2024-09-21,2431,Paid Repaired
+1863,2024-12-15,3296,Paid Repaired
+1864,2025-07-20,1772,Warranty Void
+1865,2024-12-19,4700,
+1866,2025-09-02,2699,Paid Repaired
+1867,2023-06-30,610,Paid Repaired
+1868,2024-11-26,9321,Warranty Void
+1869,2024-09-06,5981,Paid Repaired
+1870,2024-01-26,7414,Paid Repaired
+1871,2024-11-04,3846,Paid Repaired
+1872,2024-04-30,1804,Paid Repaired
+1873,2024-04-23,5993,Paid Repaired
+1874,2024-12-15,5071,Paid Repaired
+1875,2023-08-11,8283,Warranty Void
+1876,2024-05-04,6344,Paid Repaired
+1877,2024-01-19,3471,Paid Repaired
+1878,2023-09-18,5161,Paid Repaired
+1879,2025-05-11,8855,Paid Repaired
+1880,2025-03-13,2679,Warranty Void
+1881,2024-05-25,4540,Pending
+1882,2025-07-03,4336,Paid Repaired
+1883,2023-12-15,8194,Paid Repaired
+1884,2023-07-20,7309,Paid Repaired
+1885,2025-10-23,4807,Paid Repaired
+1886,2023-11-05,1167,Pending
+1887,2025-09-03,9756,Paid Repaired
+1888,2024-05-30,9227,Paid Repaired
+1889,2025-04-12,4394,Paid Repaired
+1890,2024-06-27,5643,Paid Repaired
+1891,2025-04-12,2857,Pending
+1892,2023-12-18,6803,Paid Repaired
+1893,2025-08-22,545,Paid Repaired
+1894,2024-04-29,18,Pending
+1895,2024-11-27,3701,Paid Repaired
+1896,2024-12-27,1588,Paid Repaired
+1897,2025-02-23,4763,Pending
+1898,2024-04-30,3846,Paid Repaired
+1899,2025-08-04,1832,Paid Repaired
+1900,2023-04-12,148,
+1901,2025-01-12,3480,Warranty Void
+1902,2025-03-04,5730,Paid Repaired
+1903,2024-02-17,1086,Pending
+1904,2023-09-06,9461,Paid Repaired
+1905,2024-09-13,2583,Warranty Void
+1906,2024-02-13,7316,Paid Repaired
+1907,2023-12-23,4395,Paid Repaired
+1908,2025-05-26,8289,Paid Repaired
+1909,2025-01-06,5864,Warranty Void
+1910,2024-07-27,3147,Paid Repaired
+1911,2025-06-25,4154,Paid Repaired
+1912,2024-10-03,1182,Paid Repaired
+1913,2025-04-27,3709,Paid Repaired
+1914,2024-03-20,5713,
+1915,2023-03-03,1490,Warranty Void
+1916,2025-03-03,2558,Paid Repaired
+1917,2025-10-29,1322,Paid Repaired
+1918,2024-06-15,9606,Paid Repaired
+1919,2025-01-06,8787,Warranty Void
+1920,2024-11-11,6061,Paid Repaired
+1921,2024-05-07,5167,Warranty Void
+1922,2024-10-30,7140,Paid Repaired
+1923,2023-08-07,2031,Paid Repaired
+1924,2023-11-28,3696,Paid Repaired
+1925,2024-12-20,5186,Warranty Void
+1926,2024-06-03,221,Paid Repaired
+1927,2024-01-06,129,Paid Repaired
+1928,2025-01-29,704,Warranty Void
+1929,2024-11-16,3547,Paid Repaired
+1930,2024-07-22,1397,Warranty Void
+1931,2025-08-02,6791,Warranty Void
+1932,2025-04-10,3140,Paid Repaired
+1933,2023-11-23,9718,Paid Repaired
+1934,2025-09-18,7574,Warranty Void
+1935,2024-02-21,5745,Warranty Void
+1936,2023-09-10,2995,Pending
+1937,2025-04-10,8138,Paid Repaired
+1938,2024-11-23,7634,Warranty Void
+1939,2024-01-30,9395,Paid Repaired
+1940,2024-06-15,6248,Warranty Void
+1941,2023-11-02,6609,Pending
+1942,2024-06-14,742,Paid Repaired
+1943,2023-12-23,1033,Paid Repaired
+1944,2024-12-03,5530,Paid Repaired
+1945,2024-04-04,3123,Paid Repaired
+1946,2024-05-10,556,Paid Repaired
+1947,2024-05-20,8763,
+1948,2023-05-03,7476,Paid Repaired
+1949,2024-05-14,7956,Paid Repaired
+1950,2024-01-23,5360,Paid Repaired
+1951,2025-03-08,7274,Paid Repaired
+1952,2024-11-05,942,Paid Repaired
+1953,2023-08-20,6903,Pending
+1954,2024-02-03,7402,Paid Repaired
+1955,2023-08-04,8164,Warranty Void
+1956,2024-10-31,5544,Paid Repaired
+1957,2024-08-13,5109,Paid Repaired
+1958,2025-05-28,6693,Paid Repaired
+1959,2024-06-10,4973,Paid Repaired
+1960,2024-06-17,2442,Paid Repaired
+1961,2023-05-01,4396,Paid Repaired
+1962,2024-03-09,2380,Warranty Void
+1963,2024-05-12,122,Paid Repaired
+1964,2025-08-20,5407,Paid Repaired
+1965,2025-03-15,5364,Warranty Void
+1966,2025-01-18,1478,Warranty Void
+1967,2023-07-30,1248,Paid Repaired
+1968,2025-01-22,2448,Paid Repaired
+1969,2025-02-15,3387,Paid Repaired
+1970,2023-11-11,4167,Paid Repaired
+1971,2024-06-01,5958,Paid Repaired
+1972,2024-02-08,4737,Paid Repaired
+1973,2023-11-02,4658,Paid Repaired
+1974,2023-09-28,1099,Warranty Void
+1975,2024-02-16,6608,Pending
+1976,2023-10-22,645,Warranty Void
+1977,2024-03-26,3696,Warranty Void
+1978,2025-07-25,5669,Warranty Void
+1979,2024-08-03,8419,Paid Repaired
+1980,2023-10-10,1422,Paid Repaired
+1981,2023-12-28,6706,Pending
+1982,2025-05-17,3606,Paid Repaired
+1983,2025-05-13,8160,Paid Repaired
+1984,2024-01-27,5550,Paid Repaired
+1985,2024-06-22,8591,Paid Repaired
+1986,2024-12-07,6129,
+1987,2023-11-12,7297,Paid Repaired
+1988,2024-08-26,2666,Paid Repaired
+1989,2025-01-15,9683,Paid Repaired
+1990,2025-08-30,2246,Pending
+1991,2024-12-13,3189,Paid Repaired
+1992,2023-04-05,635,Paid Repaired
+1993,2023-07-26,653,Paid Repaired
+1994,2025-05-28,8588,Pending
+1995,2023-10-11,639,Paid Repaired
+1996,2024-08-27,5004,Paid Repaired
+1997,2024-03-07,6548,Paid Repaired
+1998,2024-01-27,5684,Paid Repaired
+1999,2023-12-07,5152,Paid Repaired
+2000,2023-10-13,9831,Paid Repaired

@@ -1,0 +1,21 @@
+product_id,product_name,category_id,launch_date,price
+1,iPhone 15,1,2023-09-01,999
+2,iPhone 14,1,2022-09-01,799
+3,iPhone 13,1,2021-09-01,699
+4,iPhone SE,1,2022-03-01,429
+5,MacBook Air,2,2021-10-01,999
+6,MacBook Pro,2,2022-10-01,1299
+7,iPad Air,3,2021-03-01,599
+8,iPad Pro,3,2023-06-01,899
+9,iPad Mini,3,2022-05-01,499
+10,Apple Watch SE,4,2021-06-01,249
+11,Apple Watch Ultra,4,2023-09-01,799
+12,Apple Watch Series 8,4,2022-09-01,399
+13,AirPods Pro,5,2021-09-01,249
+14,AirPods Max,5,2022-09-01,549
+15,Magic Keyboard,5,2021-11-01,99
+16,Apple Pencil,5,2022-12-01,129
+17,MagSafe Charger,5,2023-03-01,39
+18,HomePod Mini,5,2022-10-01,99
+19,Mac Studio,2,2023-05-01,1999
+20,Mac Mini,2,2021-11-01,699
